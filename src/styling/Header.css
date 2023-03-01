@@ -1,0 +1,135 @@
+.header {
+    background-color: #333333;
+    /* margin-top: 0%; */
+    position: absolute; 
+    /* top: -50%; 
+    left: -50%;  */
+    width: 200%; 
+    height: 28%;
+    font-family: 'Roboto Mono', sans-serif;
+  }
+
+  .logo-img {
+    margin-right: 80%;
+    margin-top: 0.7%;
+  }
+
+ /* NAV LINKS */
+
+  .menu {
+    color: white;
+    display: flex;
+    margin-top: -1%;
+    margin-left: 14.5%;
+    width: 30%;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    letter-spacing: -1px;
+  }
+
+  .join {
+    color: white;
+    display: flex;
+    margin-top: -2%;
+    margin-left: 18%;
+    width: 30%;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* padding: 0px 7px; */
+    text-decoration: none;
+    letter-spacing: -1px;
+  }
+
+  .rewards {
+    color: white;
+    display: flex;
+    margin-top: -2%;
+    margin-left: 23%;
+    width: 30%;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+  }
+
+  .giftcards {
+    color: white;
+    display: flex;
+    margin-top: -2%;
+    margin-left: 29%;
+    width: 30%;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+  }
+
+  .locations {
+    color: white;
+    display: flex;
+    margin-top: -1%;
+    margin-left: 33%;
+    width: 30%;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+  }
+
+  .contact {
+    color: white;
+    display: flex;
+    margin-top: -1%;
+    margin-left: 38%;
+    width: 30%;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+  }
+
+  .careers {
+    color: white;
+    display: flex;
+    margin-top: -1%;
+    margin-left: 42%;
+    width: 30%;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+  }
+ 
+  
+  
+  /* @media only screen and (max-width: 480px) {
+    .header {
+      margin-top: 25%;
+      margin-left: -17%;
+    }
+    .head-h3 {
+      font-size: 0.7rem;
+    }
+    .arrow {
+      border: solid #6D466B;
+      border-width: 0 3px 3px 0;
+      display: inline-block;
+      padding: 3px;
+      margin-left: 10%;
+  
+    }
+    .down {
+      transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+    }
+    .typewriter {
+      font-size: 0.8rem;
+    }
+
+  } */
