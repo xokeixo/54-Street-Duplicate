@@ -4,7 +4,24 @@
 
 .nav2 {
     background-color: white;
-    margin-top: 0%;
+    margin-top: 2.5%;
+    margin-right: 58%;
+    font-family: 'langdonregular', serif;
+    background-color: white;
+}
+
+/* Location Link */
+.large-locations {
     text-decoration: none;
-    margin-right: 65%;
+    font-size: 2rem;
+    font-family: 'langdonregular', serif;
+    letter-spacing: -4px;
+    color: red;
+    font-weight: bolder;
+}
+
+
+/*Nav Links*/
+.menu2, .locations2, .join2, .rewards2,.giftcards2, .contact2, .careers2 {
+    text-decoration: none;
 }
