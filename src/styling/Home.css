@@ -2,7 +2,6 @@
     background-color: white;
     margin-left: 14%;
     font-family: 'langdonregular', serif;
-    background-color: white;
     width: 18%;
 }
 
@@ -13,7 +12,7 @@
     font-size: 2rem;
     font-family: 'langdonregular', serif;
     letter-spacing: -4px;
-    color: red;
+    color: #a61e21;
     font-weight: bolder;
     margin-top: 2.5%;
     left: 15%;
@@ -25,7 +24,7 @@
     text-decoration: none;
     letter-spacing: -1px;
     position: absolute;
-    color: orange;
+    color: #e07b06;
     left: 16%;
     text-align: left;
     font-size: 0.9rem;
@@ -104,3 +103,11 @@
     margin-left: 4%;
 }
 
+/* MAIN Content*/
+
+.main-menu {
+    position: absolute;
+    display: flex;
+    margin-top: -27%;
+    left: 40%;
+}
